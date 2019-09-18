@@ -1,0 +1,15 @@
+server:
+  port: 8888
+user:
+  id: 1
+  username: JayZhou
+  age: 41
+  boyFriends:
+    - 周杰伦
+    - 柏原崇
+    - 邓丽君
+
+logging:
+  level:
+      com.leyou: info
+
